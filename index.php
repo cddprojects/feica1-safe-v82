@@ -3,10 +3,10 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Remote, online and flexible work in Canada | Role Glide</title>
+<title>Remote, online and flexible work in Canada | Talent Fluxo</title>
 <meta name="description" content="Canadian guides to remote, online, part-time, flexible and independent contract work, including job search and pay information.">
 <meta name="theme-color" content="#243552">
-<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="/favicon.svg?v=2" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400..700;1,9..144,400..600&family=Figtree:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -15,7 +15,7 @@
 <body>
 <a class="skip" href="#main">Skip to content</a>
 <header class="site-header"><div class="wrap nav">
-<a class="brand" href="/"><svg viewBox="0 0 100 100" aria-hidden="true"><circle cx="50" cy="50" r="42" fill="none" stroke="currentColor" stroke-width="8"/><g transform="rotate(38 50 50)"><path d="M50 18 64 50H36z" fill="currentColor"/><path d="M50 82 64 50H36z" fill="currentColor" opacity=".38"/></g><circle cx="50" cy="50" r="5" fill="#faf5ea"/></svg>Role<em>Glide</em></a>
+<a class="brand" href="/"><svg viewBox="0 0 100 100" aria-hidden="true"><rect width="100" height="100" rx="26" fill="#23402f"/><path fill="#f3ead8" d="M16 20h68v16H16z"/><path fill="#c4442f" d="M42 36h16v44H42z"/></svg>Talent<em>Fluxo</em></a>
 <button class="menu-btn" aria-expanded="false" aria-controls="nav-list" aria-label="Open menu"><span class="bars" aria-hidden="true"></span></button>
 <ul id="nav-list"><li><a href="/" aria-current="page">Home</a></li><li><a href="/reading/">Guides</a></li><li><a href="/work-types/">Work types</a></li><li><a href="/services/">Additional work</a></li><li><a href="/about/">About</a></li><li><a href="/contact/">Contact</a></li></ul>
 </div></header>
@@ -101,7 +101,7 @@
 </div></section>
 
 <section class="alt" id="contact"><div class="wrap split">
-<div><span class="eyebrow">Get in touch</span><h2>Questions about remote and flexible work.</h2><p class="lede">Send a question or share feedback with Role Glide.</p>
+<div><span class="eyebrow">Get in touch</span><h2>Questions about remote and flexible work.</h2><p class="lede">Send a question or share feedback with Talent Fluxo.</p>
 </div>
 <div>
 <form id="contact-form" class="form" novalidate>
@@ -112,14 +112,14 @@
 <div class="field"><label for="msg">Question</label><textarea id="msg" required></textarea><div class="err" aria-live="polite"></div></div>
 <button class="btn btn-primary" type="submit">Submit</button>
 </form>
-<div id="form-ok" class="ok" hidden tabindex="-1" role="status"><h3>Your email message is ready.</h3><p>Review it in your email app before sending.</p><p class="ok-sub">If the app did not open, email hello@roleglide.com.</p></div>
+<div id="form-ok" class="ok" hidden tabindex="-1" role="status"><h3>Your email message is ready.</h3><p>Review it in your email app before sending.</p><p class="ok-sub">If the app did not open, email hello@talentfluxo.com.</p></div>
 </div>
 </div></section>
 
 </main>
 <footer class="site-footer"><div class="wrap">
 <div class="foot-grid">
-<div><a class="brand" href="/"><svg viewBox="0 0 100 100" aria-hidden="true"><circle cx="50" cy="50" r="42" fill="none" stroke="currentColor" stroke-width="8"/><g transform="rotate(38 50 50)"><path d="M50 18 64 50H36z" fill="currentColor"/><path d="M50 82 64 50H36z" fill="currentColor" opacity=".38"/></g><circle cx="50" cy="50" r="5" fill="#faf5ea"/></svg>Role<em>Glide</em></a>
+<div><a class="brand" href="/"><svg viewBox="0 0 100 100" aria-hidden="true"><rect width="100" height="100" rx="26" fill="#23402f"/><path fill="#f3ead8" d="M16 20h68v16H16z"/><path fill="#c4442f" d="M42 36h16v44H42z"/></svg>Talent<em>Fluxo</em></a>
 <p style="margin-top:1rem;max-width:36ch">Canadian guides to remote, online and flexible work.</p></div>
 <div><h4>Guides</h4><ul>
 <li><a href="/reading/">Browse all guides</a></li>
@@ -135,9 +135,9 @@
 <li><a href="/disclaimer/">Disclaimer</a></li>
 </ul></div>
 </div>
-<div class="legal"><p>Role Glide is an independent information service and does not list jobs. Official sources set legal, tax, immigration and employment rules.</p>
-<p>&copy; 2026 Role Glide &middot; Canada &middot; <a href="mailto:hello@roleglide.com">hello@roleglide.com</a></p></div>
-<p class="wordmark" aria-hidden="true">Role Glide</p>
+<div class="legal"><p>Talent Fluxo is an independent information service and does not list jobs. Official sources set legal, tax, immigration and employment rules.</p>
+<p>&copy; 2026 Talent Fluxo &middot; Canada &middot; <a href="mailto:hello@talentfluxo.com">hello@talentfluxo.com</a></p></div>
+<p class="wordmark" aria-hidden="true">Talent Fluxo</p>
 </div></footer>
 <script src="/js/main.js"></script>
 </body>

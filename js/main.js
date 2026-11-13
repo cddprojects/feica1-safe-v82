@@ -72,13 +72,13 @@
         var el = document.getElementById(id);
         return el ? el.value.trim() : "";
       };
-      var subject = "Role Glide inquiry" + (v("topic") ? ": " + v("topic") : "");
+      var subject = "Talent Fluxo inquiry" + (v("topic") ? ": " + v("topic") : "");
       var body = "Name: " + v("name") + "\nEmail: " + v("email") + "\nProvince or territory: " + v("province") + "\nTopic: " + v("topic") + "\n\n" + v("msg");
       form.hidden = true;
       var done = document.getElementById("form-ok");
       done.hidden = false;
       done.focus();
-      window.location.href = "mailto:hello@roleglide.com?subject=" + encodeURIComponent(subject) + "&body=" + encodeURIComponent(body);
+      window.location.href = "mailto:hello@talentfluxo.com?subject=" + encodeURIComponent(subject) + "&body=" + encodeURIComponent(body);
     });
   }
 })();

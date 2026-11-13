@@ -3,10 +3,10 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>How to search for remote work in Canada | Role Glide</title>
+<title>How to search for remote work in Canada | Talent Fluxo</title>
 <meta name="description" content="How to search Canadian job boards for remote and part-time work, and how work-location filters differ from the words work from home.">
 <meta name="theme-color" content="#243552">
-<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="/favicon.svg?v=2" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400..700;1,9..144,400..600&family=Figtree:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -15,14 +15,14 @@
 <body>
 <a class="skip" href="#main">Skip to content</a>
 <header class="site-header"><div class="wrap nav">
-<a class="brand" href="/"><svg viewBox="0 0 100 100" aria-hidden="true"><circle cx="50" cy="50" r="42" fill="none" stroke="currentColor" stroke-width="8"/><g transform="rotate(38 50 50)"><path d="M50 18 64 50H36z" fill="currentColor"/><path d="M50 82 64 50H36z" fill="currentColor" opacity=".38"/></g><circle cx="50" cy="50" r="5" fill="#faf5ea"/></svg>Role<em>Glide</em></a>
+<a class="brand" href="/"><svg viewBox="0 0 100 100" aria-hidden="true"><rect width="100" height="100" rx="26" fill="#23402f"/><path fill="#f3ead8" d="M16 20h68v16H16z"/><path fill="#c4442f" d="M42 36h16v44H42z"/></svg>Talent<em>Fluxo</em></a>
 <button class="menu-btn" aria-expanded="false" aria-controls="nav-list" aria-label="Open menu"><span class="bars" aria-hidden="true"></span></button>
 <ul id="nav-list"><li><a href="/">Home</a></li><li><a href="/reading/" aria-current="page">Guides</a></li><li><a href="/work-types/">Work types</a></li><li><a href="/services/">Additional work</a></li><li><a href="/about/">About</a></li><li><a href="/contact/">Contact</a></li></ul>
 </div></header>
 <main id="main">
 <div class="page-head"><div class="wrap"><span class="eyebrow">Where to look</span><h1>How to search for remote work</h1></div></div>
 <section><div class="wrap article">
-<p class="byline">Role Glide &middot; Last reviewed October 2026</p>
+<p class="byline">Talent Fluxo &middot; Last reviewed October 2026</p>
 <p class="lede">Job-board searches typically begin with a job title matched to skills; work-location and hours filters narrow results more reliably than generic phrases.</p>
 
 <div class="takeaways"><h2>Job-board search options</h2><ul>
@@ -53,7 +53,7 @@
 </main>
 <footer class="site-footer"><div class="wrap">
 <div class="foot-grid">
-<div><a class="brand" href="/"><svg viewBox="0 0 100 100" aria-hidden="true"><circle cx="50" cy="50" r="42" fill="none" stroke="currentColor" stroke-width="8"/><g transform="rotate(38 50 50)"><path d="M50 18 64 50H36z" fill="currentColor"/><path d="M50 82 64 50H36z" fill="currentColor" opacity=".38"/></g><circle cx="50" cy="50" r="5" fill="#faf5ea"/></svg>Role<em>Glide</em></a>
+<div><a class="brand" href="/"><svg viewBox="0 0 100 100" aria-hidden="true"><rect width="100" height="100" rx="26" fill="#23402f"/><path fill="#f3ead8" d="M16 20h68v16H16z"/><path fill="#c4442f" d="M42 36h16v44H42z"/></svg>Talent<em>Fluxo</em></a>
 <p style="margin-top:1rem;max-width:36ch">Canadian guides to remote, online and flexible work.</p></div>
 <div><h4>Guides</h4><ul>
 <li><a href="/reading/">Browse all guides</a></li>
@@ -69,9 +69,9 @@
 <li><a href="/disclaimer/">Disclaimer</a></li>
 </ul></div>
 </div>
-<div class="legal"><p>Role Glide is an independent information service and does not list jobs. Official sources set legal, tax, immigration and employment rules.</p>
-<p>&copy; 2026 Role Glide &middot; Canada &middot; <a href="mailto:hello@roleglide.com">hello@roleglide.com</a></p></div>
-<p class="wordmark" aria-hidden="true">Role Glide</p>
+<div class="legal"><p>Talent Fluxo is an independent information service and does not list jobs. Official sources set legal, tax, immigration and employment rules.</p>
+<p>&copy; 2026 Talent Fluxo &middot; Canada &middot; <a href="mailto:hello@talentfluxo.com">hello@talentfluxo.com</a></p></div>
+<p class="wordmark" aria-hidden="true">Talent Fluxo</p>
 </div></footer>
 <script src="/js/main.js"></script>
 </body>
