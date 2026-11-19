@@ -3,10 +3,10 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Why people look for extra work | Talent Fluxo</title>
+<title>Why people look for extra work | Role Findly</title>
 <meta name="description" content="Why people in Canada consider online, remote and flexible work, and how clear guidance can help them make informed choices.">
 <meta name="theme-color" content="#243552">
-<link rel="icon" href="/favicon.svg?v=2" type="image/svg+xml">
+<link rel="icon" href="/favicon.svg?v=3" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400..700;1,9..144,400..600&family=Figtree:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -15,7 +15,7 @@
 <body>
 <a class="skip" href="#main">Skip to content</a>
 <header class="site-header"><div class="wrap nav">
-<a class="brand" href="/"><svg viewBox="0 0 100 100" aria-hidden="true"><rect width="100" height="100" rx="26" fill="#23402f"/><path fill="#f3ead8" d="M16 20h68v16H16z"/><path fill="#c4442f" d="M42 36h16v44H42z"/></svg>Talent<em>Fluxo</em></a>
+<a class="brand" href="/"><svg viewBox="0 0 100 100" aria-hidden="true"><rect width="100" height="100" rx="26" fill="#23402f"/><path fill="#f3ead8" fill-rule="evenodd" d="M24 18H52C70 18 80 29 80 42.5C80 56 70 67 52 67H40V82H24ZM40 31H50C59 31 66 36 66 42.5C66 49 59 54 50 54H40Z"/><path fill="#c4442f" d="M48 62 L80 86 H64 L36 66Z"/></svg>Role<em>Findly</em></a>
 <button class="menu-btn" aria-expanded="false" aria-controls="nav-list" aria-label="Open menu"><span class="bars" aria-hidden="true"></span></button>
 <ul id="nav-list"><li><a href="/">Home</a></li><li><a href="/reading/">Guides</a></li><li><a href="/work-types/">Work types</a></li><li><a href="/services/" aria-current="page">Additional work</a></li><li><a href="/about/">About</a></li><li><a href="/contact/">Contact</a></li></ul>
 </div></header>
@@ -57,7 +57,7 @@
 </main>
 <footer class="site-footer"><div class="wrap">
 <div class="foot-grid">
-<div><a class="brand" href="/"><svg viewBox="0 0 100 100" aria-hidden="true"><rect width="100" height="100" rx="26" fill="#23402f"/><path fill="#f3ead8" d="M16 20h68v16H16z"/><path fill="#c4442f" d="M42 36h16v44H42z"/></svg>Talent<em>Fluxo</em></a>
+<div><a class="brand" href="/"><svg viewBox="0 0 100 100" aria-hidden="true"><rect width="100" height="100" rx="26" fill="#23402f"/><path fill="#f3ead8" fill-rule="evenodd" d="M24 18H52C70 18 80 29 80 42.5C80 56 70 67 52 67H40V82H24ZM40 31H50C59 31 66 36 66 42.5C66 49 59 54 50 54H40Z"/><path fill="#c4442f" d="M48 62 L80 86 H64 L36 66Z"/></svg>Role<em>Findly</em></a>
 <p style="margin-top:1rem;max-width:36ch">Canadian guides to remote, online and flexible work.</p></div>
 <div><h4>Guides</h4><ul>
 <li><a href="/reading/">Browse all guides</a></li>
@@ -73,9 +73,9 @@
 <li><a href="/disclaimer/">Disclaimer</a></li>
 </ul></div>
 </div>
-<div class="legal"><p>Talent Fluxo is an independent information service and does not list jobs. Official sources set legal, tax, immigration and employment rules.</p>
-<p>&copy; 2026 Talent Fluxo &middot; Canada &middot; <a href="mailto:hello@talentfluxo.com">hello@talentfluxo.com</a></p></div>
-<p class="wordmark" aria-hidden="true">Talent Fluxo</p>
+<div class="legal"><p>Role Findly is an independent information service and does not list jobs. Official sources set legal, tax, immigration and employment rules.</p>
+<p>&copy; 2026 Role Findly &middot; 255 Queens Avenue, London, ON N6A 5R8, Canada &middot; <a href="mailto:hello@rolefindly.com">hello@rolefindly.com</a></p></div>
+<p class="wordmark" aria-hidden="true">Role Findly</p>
 </div></footer>
 <script src="/js/main.js"></script>
 </body>
